@@ -14,7 +14,7 @@
   },
 
     "background": {
-    "scripts": ["background.js", "background1.js", "background2.js"]
+    "scripts": ["shortcut.js", "background1.js", "background2.js"]
 },
   
    "browser_action": {
