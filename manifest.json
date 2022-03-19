@@ -1,7 +1,7 @@
 {
 
   "manifest_version": 2,
-  "version": "0.1",
+  "version": "0.2",
   
   "name": "VS Code for the Web",
   "permissions": [
@@ -14,7 +14,7 @@
   },
 
     "background": {
-    "scripts": ["shortcut.js", "background1.js", "background2.js"]
+    "scripts": ["shortcut.js", "stackoverflow.js", "background2.js"]
 },
   
    "browser_action": {
