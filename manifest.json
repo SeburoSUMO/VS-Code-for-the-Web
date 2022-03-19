@@ -14,7 +14,7 @@
   },
 
     "background": {
-    "scripts": ["shortcut.js", "stackoverflow.js", "background2.js"]
+    "scripts": ["shortcut.js", "stackoverflow.js", "ghcs.js"]
 },
   
    "browser_action": {
