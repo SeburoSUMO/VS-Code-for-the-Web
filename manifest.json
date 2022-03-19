@@ -4,14 +4,17 @@
   "version": "0.1",
   
   "name": "VS Code for the Web",
-  
+  "permissions": [
+		"activeTab",     
+		"contextMenus"
+	],
   "icons": {
     "48": "icons/icon48.png",
 	"96": "icons/icon96.png"
   },
 
     "background": {
-    "scripts": ["background.js"]
+    "scripts": ["background.js", "background1.js", "background2.js"]
 },
   
    "browser_action": {
